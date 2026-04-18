@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Oksana Lutska
 
-<!--
-**lutska/lutska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+DevOps Engineer focused on cloud infrastructure (AWS), automation, and Kubernetes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Cloud:** AWS, Oracle Cloud  
+**IaC:** Terraform, CloudFormation  
+**CI/CD:** Jenkins
+**Containers:** Docker, Kubernetes  
+**Config Mgmt:** Ansible  
+**Scripting:** Bash, Python  
+**Other:** Linux, Git, MySQL, TCP/IP  
+
+---
+
+## 📂 Projects
+
+**RSS → Telegram Notifier (AWS Serverless)**  
+https://github.com/lutska/rss-to-tg  
+
+- AWS Lambda + Terraform  
+- Event-driven serverless architecture  
+- Uses SSM Parameter Store for secure secrets and state management  
+- Cost-optimised (~$0.01/month)
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner  
+- HashiCorp Terraform Associate  
+- KCNA (Kubernetes and Cloud Native Associate)
+  
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/oksanalutska
