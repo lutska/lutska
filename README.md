@@ -1,42 +1,37 @@
-## Hi, I'm Oksana Lutska
+### Hi, I'm Oksana Lutska
 
 
 DevOps Engineer focused on cloud infrastructure (AWS), automation, and Kubernetes.
 
----
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-**Cloud:** AWS, Oracle Cloud  
-**IaC:** Terraform, CloudFormation  
-**CI/CD:** Jenkins
-**Containers:** Docker, Kubernetes  
-**Config Mgmt:** Ansible  
-**Scripting:** Bash, Python  
-**Other:** Linux, Git, MySQL, TCP/IP  
+*Cloud:* AWS, Oracle Cloud  
+*IaC:* Terraform, CloudFormation  
+*CI/CD:* Jenkins
+*Containers:* Docker, Kubernetes  
+*Scripting:* Bash, Python  
+*Other:*  Linux, Git, Ansible, MySQL, TCP/IP  
 
----
 
-## 📂 Projects
+### 📂 Projects
 
-**RSS → Telegram Notifier (AWS Serverless)**  
-https://github.com/lutska/rss-to-tg  
+*RSS → Telegram Notifier (AWS Serverless)* 
+*https://github.com/lutska/rss-to-tg*
 
 - AWS Lambda + Terraform  
 - Event-driven serverless architecture  
 - Uses SSM Parameter Store for secure secrets and state management  
 - Cost-optimised (~$0.01/month)
 
----
 
-## 📜 Certifications
+### 📜 Certifications
 
 - AWS Certified Cloud Practitioner  
 - HashiCorp Terraform Associate  
 - KCNA (Kubernetes and Cloud Native Associate)
   
----
 
-## 📫 Contact
+### 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/oksanalutska
+*LinkedIn: https://linkedin.com/in/oksanalutska*
